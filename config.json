@@ -1,0 +1,24 @@
+{
+
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:paytm@123@localhost/Paytm",
+    "prod_uri": "mysql://root:paytm@123@localhost/Paytm",
+    "fa_url": "https://facebook.com/Paytm",
+    "tw_url": "https://twitter.com/Paytm",
+    "gh_url": "https://github.com/Paytm",
+    "blog_name": "Paytm Prime",
+    "gmail-user": "ravi703321@gmail.com",
+    "gmail-password":"pinturavi",
+    "about_text": "Hi my name is harry and I create programming tutorials and I am a good boy",
+    "no_of_posts": 2,
+    "login_image":"login.svg",
+    "admin_user":"abhishek",
+    "admin_password": "paytm@123",
+    "upload_location": "/home/abhishekkumar/PycharmProjects/Flask-tut/static/img"
+
+  }
+
+
+}
